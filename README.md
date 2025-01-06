@@ -1,1 +1,3 @@
 # IslandsOfStaffan
+
+Developed for iPhone.
